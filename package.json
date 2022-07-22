@@ -1,11 +1,11 @@
 {
-  "name": "personal-website",
+  "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://edward-sadoon.github.io/personal-website/",
+  "homepage": "https://edward-sadoon.github.io/personal-site/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/edward-sadoon/personal-website.git"
+    "url": "https://github.com/edward-sadoon/personal-site.git"
   },
   "engines": {
     "node": ">=14.x"

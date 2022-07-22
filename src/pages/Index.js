@@ -21,7 +21,7 @@ const Index = () => (
         <Link to="/resume">resume</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
-      <p> Source code available <a href="https://github.com/edward-sadoon/personal-website">here</a>.</p>
+      <p> Source code available <a href="https://github.com/edward-sadoon/personal-site">here</a>.</p>
     </article>
   </Main>
 );
